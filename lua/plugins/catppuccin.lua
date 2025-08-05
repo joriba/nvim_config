@@ -1,10 +1,8 @@
 return {
   {
     "catppuccin/nvim",
-    name = "catpuccin",
+    name = "catppuccin",
     priority = 1000,
-    opts = {
-
-    }
-  }
+    opts = {},
+  },
 }
